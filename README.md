@@ -1,4 +1,4 @@
 # myFirstDemo
 This is my first Git Repository.
 <br>
-Author - Deep Patel
+Author - Deep (Eastern Michigan University)
